@@ -18,7 +18,6 @@ Cricket is a game filled with uncertainties. With the rise of data-driven strate
 ---
 
 ## Project Structure
-'''bash
 t20-cricket-prediction-2024/
 │
 ├── data/
@@ -32,7 +31,6 @@ t20-cricket-prediction-2024/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-'''
 
 ##  Technologies Used
 
